@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital@0;1&display=swap');
+* {
+    font-family: 'Inter', sans-serif;
+}
+body {
+    margin-left: 1.2%;
+}
+/* Section 1 */
+
+#section-1 {
+    border: 2px solid black;
+    padding: 2%;
+}
+body {
+    margin-left: 1.2%;
+}
+/* Section 1 */
+
+#section-1 {
+    border: 2px solid black;
+    padding: 2%;
+}
+p {
+    font-size: 20px;
+}
+/* Sectoion 2 & Section 3 */
+
+#section-2,
+#section-3 {
+    padding: 8px;
+}
+li {
+    line-height: 1.6;
+}
+
+ol {
+    padding-left: 25px;
+}
+
+img {
+    width: 60%;
+}
